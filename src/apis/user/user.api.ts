@@ -1,6 +1,6 @@
 // user.api.ts
 
-import type { ApiResponse } from "@/types/common/ResponseDto";
+
 import { privateApi } from "../common/axiosInstance";
 import type {
   UserDetailResponse,
